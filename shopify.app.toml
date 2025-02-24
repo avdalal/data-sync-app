@@ -1,7 +1,7 @@
 # Learn more about configuring your app at https://shopify.dev/docs/apps/tools/cli/configuration
 
 client_id = "7efe1fe7647c641109844f23a6cddebe"
-application_url = "https://dentists-img-considers-listen.trycloudflare.com"
+application_url = "https://streets-brought-address-drive.trycloudflare.com"
 embedded = true
 name = "data-sync-app"
 handle = "data-sync-app-5"
@@ -35,9 +35,9 @@ scopes = "read_orders,read_products,write_orders,write_products"
 
 [auth]
 redirect_urls = [
-  "https://dentists-img-considers-listen.trycloudflare.com/auth/callback",
-  "https://dentists-img-considers-listen.trycloudflare.com/auth/shopify/callback",
-  "https://dentists-img-considers-listen.trycloudflare.com/api/auth/callback"
+  "https://streets-brought-address-drive.trycloudflare.com/auth/callback",
+  "https://streets-brought-address-drive.trycloudflare.com/auth/shopify/callback",
+  "https://streets-brought-address-drive.trycloudflare.com/api/auth/callback"
 ]
 
 [pos]
